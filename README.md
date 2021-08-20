@@ -2,7 +2,7 @@ Seja bem vindo(a)! Meu nome é Gabriela Medeiros.
 
 - Finalizando Ensino Médio
 - Cursando Desenvolvimento de Sistemas no Senac
-- Procurando por uma vaga de estágio.
+- Procurando por uma vaga de TI.
 
  <div>
   <a href="https://github.com/gabrielamed">
