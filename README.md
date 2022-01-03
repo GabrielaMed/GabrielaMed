@@ -1,6 +1,5 @@
 Seja bem vindo(a)! Meu nome é Gabriela Medeiros.
 
-- Finalizando Ensino Médio
 - Cursando Desenvolvimento de Sistemas no Senac
 - Procurando por uma vaga na área de TI.
 
