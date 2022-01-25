@@ -1,8 +1,6 @@
 Welcome to my GitHub! My name is Gabriela Medeiros.
 
-- Graduação em ADS em andamento.
-- Cursando Desenvolvimento de Sistemas no Senac.
-- Procurando por uma vaga na área de TI.
+- Looking for an oportunity
 
  <div>
   <a href="https://github.com/gabrielamed">
