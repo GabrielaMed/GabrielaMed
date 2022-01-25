@@ -1,4 +1,4 @@
-Seja bem vindo(a)! Meu nome é Gabriela Medeiros.
+Welcome to my GitHub! My name is Gabriela Medeiros.
 
 - Graduação em ADS em andamento.
 - Cursando Desenvolvimento de Sistemas no Senac.
