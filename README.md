@@ -1,5 +1,6 @@
 Welcome to my GitHub! My name is Gabriela Medeiros.
 
+-Learning always
 - Looking for an oportunity
 
  <div>
