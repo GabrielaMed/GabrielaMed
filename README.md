@@ -6,7 +6,7 @@ Welcome to my GitHub! My name is Gabriela Medeiros.
  <div>
   <a href="https://github.com/gabrielamed">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" width='500em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMed&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMed&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
