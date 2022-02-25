@@ -5,8 +5,8 @@ Welcome to my GitHub! My name is Gabriela Medeiros.
 
  <div>
   <a href="https://github.com/gabrielamed">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMed&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMed&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
@@ -17,3 +17,4 @@ Welcome to my GitHub! My name is Gabriela Medeiros.
   <a href="https://www.linkedin.com/in/gabriela-siqueira-medeiros-23b83b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Snake animation] (https://github.com/GabrielaMed/GabrielaMed)
