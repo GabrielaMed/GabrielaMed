@@ -15,6 +15,7 @@ Welcome to my GitHub! My name is Gabriela Medeiros.
  <a href="https://instagram.com/gabrielasmed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielasiqueiramedeiros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriela-siqueira-medeiros-23b83b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation] (https://github.com/GabrielaMed/GabrielaMed)
+ 
+ <img src="https://github.com/GabrielaMed/GabrielaMed/dist/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+ 
 </div>
