@@ -1,13 +1,6 @@
 Welcome to my GitHub! My name is Gabriela Medeiros.
 
 - Learning always
-
- <div>
-  <a href="https://github.com/gabrielamed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaMed&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ##
 
 <div>
