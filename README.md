@@ -8,9 +8,6 @@
 </div>
 
 
-[![Gabriela's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielamed&bg_color=0d1117&color=7B68EE&line=7B68EE&point=7B68EE&area=true&hide_border=true)](https://github.com/gabrielamed/github-readme-activity-graph)
-
-
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
